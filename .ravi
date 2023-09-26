@@ -1,0 +1,15 @@
+#include<stdio.h>
+#include<conio.h>
+void main(){
+inta;
+intb;
+int sum=0;
+sum=0;
+printf("enter a value :");
+scanf(%d",&b);
+printf("enter a value :");
+scanf(%d",&b);
+sum=a+b;
+scanf("%d,&sum);
+return sum;
+}
